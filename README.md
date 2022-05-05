@@ -5,6 +5,8 @@
 
 *[Click Here for Interactive Map!](map.html)*
 ## Cave Run Lake
+![Cave Run Lake Map](Cave_Run_Lake_Map.jpg)
+
 Cave Run Lake is a lake located in the Daniel Boone National Forest. The lake is approximately 8,270 acres of water providing flood protecting and a clean water supply to local communities. It is also home to a variety of fish and other wildlife in the area. In this website I will explain the different type of fish you can see here as well as what can be done at Cave Run.
 ## Fish
 ![Largemouth and Smallmouth Bass](largemouth-smallmouth-bass.jpg)
