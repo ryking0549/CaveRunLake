@@ -17,7 +17,15 @@ As mentioned above, the lake is home to a variety of different fish within the a
 * Bluegill
 * White Bass
 * Muskie 
+
+The area also has quite a few different fishing spots located on the banks of the lake including:
+* Muskie Bend Fishing Site
+* Ramey Creek Fishing Site
+* Shallow Flats Wildlife Viewing Area
+* Windy Bay Fishing Site
 ## Camping
+![Twin Knobs Recreation Area](TwinKnobs.jpg)
+
 The lake also has a few different campsites throughout the area for tourists to come and stay overnight from regular campsites to RV hookups campgrounds are as follows:
 * Claylick boat-in campground
 * Clear Creek Campground
