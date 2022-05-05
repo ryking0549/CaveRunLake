@@ -47,3 +47,18 @@ The lake is also good for boating, swimming and tubing! with it's 8,270 acres of
 Want to learn more? visit this website to learn more about the exciting activities and general information regarding the lake! 
 
 [Forest Service and USDA](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39320)
+
+## About the Author
+Hello people of the internet! My name is Ryan Kraft, I am a Geography major at the University of Kentucky Creating this webpage for a class project (GEO 409). The purpose of this project was to give people a concise overview of one of my favorite lakes that I have been visting ever since I was a little kid. And I hope you gained some valuable information regarding the lake and enjoyed the maps I have created! :)
+
+## Metadata
+Maps and information were gathered and created from a bunch of different sources.  Both Maps were made in ArcGIS Pro ver2.9, the contours map was made using python coding to produce hillshaded relief data to create the contours. Afterwards it was then sent to mapbox.com to create a 3D inreactive map for users to view. The map of the lake was created by downloading a shapefile from the KyGeoPortal.
+
+ Information regarding the lake was given by the USDA Forest Service and wikipedia.
+
+ Images are from:
+ * https://www.pinterest.com/pin/62768988528962724/
+ *  https://www.mossyoak.com/our-obsession/blogs/fishing/the-differences-between-largemouth-and-smallmouth-bass 
+ * https://www.recreation.gov/camping/campgrounds/233782
+
+ *I do not own the rights to these images*
