@@ -35,3 +35,5 @@ The lake also has a few different campsites throughout the area for tourists to 
 * Zilpo Recreation area 
 
 For more information, Please [Click Here](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39324)
+## Hiking
+Looking for a day out in the woods with a scenic view? Look no further! Cave Run Lake has a swath of different trails for beginners and families to people more familiarized with hiking! For more information on the different trails, please [Click Here.](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39320) 
