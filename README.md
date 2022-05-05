@@ -34,6 +34,14 @@ The lake also has a few different campsites throughout the area for tourists to 
 * White Sulphur Horse Camp
 * Zilpo Recreation area 
 
-For more information, Please [Click Here](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39324)
+
 ## Hiking
-Looking for a day out in the woods with a scenic view? Look no further! Cave Run Lake has a swath of different trails for beginners and families to people more familiarized with hiking! For more information on the different trails, please [Click Here.](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39320) 
+Looking for a day out in the woods with a scenic view? Look no further! Cave Run Lake has a swath of different trails for beginners and families to people more familiarized with hiking! 
+## Boating
+![Boating Cave Run](https://i.pinimg.com/originals/5e/86/85/5e8685afed3d724b59916634a04def2f.jpg)
+
+The lake is also good for boating, swimming and tubing! with it's 8,270 acres of water and viewing, there is plenty of room to drive around and also stop to have relaxing day at the lake.
+## Information
+Want to learn more? visit this website to learn more about the exciting activities and general information regarding the lake! 
+
+[Forest Service and USDA](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39320)
